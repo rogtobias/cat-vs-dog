@@ -1,0 +1,11 @@
+img {
+  height: 200px;
+}
+
+#kitty-attack {
+  display: none;
+}
+
+#doggy-attack {
+  display: none;
+}
